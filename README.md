@@ -4,7 +4,7 @@ A simple skeleton for Python katas.
 
 ## Requirements
 
-- Python 3.9+
+- Python 3
 - Virtualenv
 
 ## Getting Started
@@ -22,5 +22,5 @@ pip install -r requirements.txt
 
 Run the tests.
 ```bash
-python -m unittest
+pytest
 ```
