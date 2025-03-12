@@ -1,3 +1,4 @@
 # Add your dependencies here
 
 pytest~=8.3
+mypy~=1.15

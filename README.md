@@ -24,3 +24,8 @@ Run the tests.
 ```bash
 pytest
 ```
+
+Check types.
+```bash
+mypy --strict .
+```
